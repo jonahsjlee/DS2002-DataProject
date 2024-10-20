@@ -1,0 +1,164 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "User_1",
+            "email": "user_1@example.com",
+            "age": 42,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "daily",
+                "theme": "dark"
+            },
+            "address": {
+                "city": "San Francisco",
+                "zipcode": "91870"
+            }
+        },
+        {
+            "id": 2,
+            "name": "User_2",
+            "email": "user_2@example.com",
+            "age": 26,
+            "active": false,
+            "preferences": {
+                "newsletter": true,
+                "notifications": "monthly",
+                "theme": "light"
+            },
+            "address": {
+                "city": "San Francisco",
+                "zipcode": "57802"
+            }
+        },
+        {
+            "id": 3,
+            "name": "User_3",
+            "email": "user_3@example.com",
+            "age": 30,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "weekly",
+                "theme": "auto"
+            },
+            "address": {
+                "city": "Los Angeles",
+                "zipcode": "57660"
+            }
+        },
+        {
+            "id": 4,
+            "name": "User_4",
+            "email": "user_4@example.com",
+            "age": 50,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "daily",
+                "theme": "light"
+            },
+            "address": {
+                "city": "Chicago",
+                "zipcode": "11149"
+            }
+        },
+        {
+            "id": 5,
+            "name": "User_5",
+            "email": "user_5@example.com",
+            "age": 28,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "monthly",
+                "theme": "light"
+            },
+            "address": {
+                "city": "Houston",
+                "zipcode": "18334"
+            }
+        },
+        {
+            "id": 6,
+            "name": "User_6",
+            "email": "user_6@example.com",
+            "age": 54,
+            "active": true,
+            "preferences": {
+                "newsletter": true,
+                "notifications": "daily",
+                "theme": "dark"
+            },
+            "address": {
+                "city": "Chicago",
+                "zipcode": "79746"
+            }
+        },
+        {
+            "id": 7,
+            "name": "User_7",
+            "email": "user_7@example.com",
+            "age": 58,
+            "active": true,
+            "preferences": {
+                "newsletter": true,
+                "notifications": "monthly",
+                "theme": "auto"
+            },
+            "address": {
+                "city": "Houston",
+                "zipcode": "16657"
+            }
+        },
+        {
+            "id": 8,
+            "name": "User_8",
+            "email": "user_8@example.com",
+            "age": 60,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "daily",
+                "theme": "light"
+            },
+            "address": {
+                "city": "New York",
+                "zipcode": "33260"
+            }
+        },
+        {
+            "id": 9,
+            "name": "User_9",
+            "email": "user_9@example.com",
+            "age": 62,
+            "active": false,
+            "preferences": {
+                "newsletter": true,
+                "notifications": "monthly",
+                "theme": "light"
+            },
+            "address": {
+                "city": "Los Angeles",
+                "zipcode": "38684"
+            }
+        },
+        {
+            "id": 10,
+            "name": "User_10",
+            "email": "user_10@example.com",
+            "age": 51,
+            "active": false,
+            "preferences": {
+                "newsletter": false,
+                "notifications": "monthly",
+                "theme": "dark"
+            },
+            "address": {
+                "city": "Houston",
+                "zipcode": "13013"
+            }
+        }
+    ]
+}
