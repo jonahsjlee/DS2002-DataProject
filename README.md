@@ -1,5 +1,5 @@
 # DS2002-DataProject
-Authors: Benjamin Yeh (svj4hk), Jonah Lee ()
+Authors: Benjamin Yeh (svj4hk), Jonah Lee (wkx9ff)
 
 ## Code description:
 - The functions are found in the `dsproject1.ipynb` notebook and contain all the functional code of our ETL pipeline application
