@@ -1,0 +1,11 @@
+id,name,email,age,active,preferences.newsletter,preferences.notifications,preferences.theme,address.city,address.zipcode
+1,User_1,user_1@example.com,42,False,False,daily,dark,San Francisco,91870
+2,User_2,user_2@example.com,26,False,True,monthly,light,San Francisco,57802
+3,User_3,user_3@example.com,30,False,False,weekly,auto,Los Angeles,57660
+4,User_4,user_4@example.com,50,False,False,daily,light,Chicago,11149
+5,User_5,user_5@example.com,28,False,False,monthly,light,Houston,18334
+6,User_6,user_6@example.com,54,True,True,daily,dark,Chicago,79746
+7,User_7,user_7@example.com,58,True,True,monthly,auto,Houston,16657
+8,User_8,user_8@example.com,60,False,False,daily,light,New York,33260
+9,User_9,user_9@example.com,62,False,True,monthly,light,Los Angeles,38684
+10,User_10,user_10@example.com,51,False,False,monthly,dark,Houston,13013
